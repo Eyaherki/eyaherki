@@ -1,8 +1,7 @@
 <p align="center" >
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World+!&center=true&size=30">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World+!&center=true&size=50">
   </p>
-<h1 align="center">Hi 👋, I'm Herki Eya</h1>
-<h3 align="center">A passionate data scientist student</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
