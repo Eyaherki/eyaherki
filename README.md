@@ -16,9 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Eyaherki&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=eya&label=Profile%20Views&pretty=false" />
-</a>
+
 ![](https://github-contributor-stats.vercel.app/api?username=Eyaherki&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
