@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Herki Eya</h1>
+<h1 align="center">Hi 👋, I'm Harki Eya</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyaherki" alt="eyaherki" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eya-herki-50ab80228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eya-herki-50ab80228/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/eya-herki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eya-herki-50ab80228/" height="30" width="40" /></a>
 <a href="https://fb.com/eya herki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eya herki" height="30" width="40" /></a>
 <a href="https://instagram.com/herkieya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="herkieya" height="30" width="40" /></a>
 </p>
